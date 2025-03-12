@@ -3,7 +3,7 @@
 ##  Overview
 This script demonstrates how to achieve persistence on a Windows system by adding an executable file to the Windows Registry. Additionally, it attempts to open a file from a temporary directory and repeatedly prints a specific message on the screen.
 
-## 🛠 Features
+##  Features
 - Copies itself to the **AppData** directory.
 - **Adds an entry to the Registry** to run automatically at system startup.
 - Attempts to open a file (`nota.pdf`) from the **`_MEIPASS`** directory.
